@@ -8,6 +8,8 @@ and this project adheres to
 
 ## [Unreleased]
 
+## [2.5.0] - 2025-03-18
+
 ## Added
 
 - 📝(doc) Added GNU Make link to README #750
@@ -466,7 +468,9 @@ and this project adheres to
 - ✨(frontend) Coming Soon page (#67)
 - 🚀 Impress, project to manage your documents easily and collaboratively.
 
-[unreleased]: https://github.com/numerique-gouv/impress/compare/v2.3.0...main
+[unreleased]: https://github.com/numerique-gouv/impress/compare/v2.5.0...main
+[v2.5.0]: https://github.com/numerique-gouv/impress/releases/v2.5.0
+[v2.4.0]: https://github.com/numerique-gouv/impress/releases/v2.4.0
 [v2.3.0]: https://github.com/numerique-gouv/impress/releases/v2.3.0
 [v2.2.0]: https://github.com/numerique-gouv/impress/releases/v2.2.0
 [v2.1.0]: https://github.com/numerique-gouv/impress/releases/v2.1.0
